@@ -10,4 +10,4 @@ __pycache__
 !**/migrations/__init__.py
 
 # Application
-#config/settings/production.py
+config/settings/production.py

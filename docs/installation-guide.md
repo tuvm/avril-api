@@ -1,3 +1,9 @@
+# Install required packages:
+
+```bash
+$ pip install -r requirements/local.txt
+```
+
 # Install MySQL
 
 ```bash
