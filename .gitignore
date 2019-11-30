@@ -1,0 +1,13 @@
+# Base
+*.sqlite3
+.DS_Store
+.idea
+.vscode
+__pycache__
+
+# Migrations
+**/migrations/*
+!**/migrations/__init__.py
+
+# Application
+config/settings/production.py
